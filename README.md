@@ -18,10 +18,3 @@ g++ -std=c++20 -o fpl fpl.cpp
 ## Requirements
 
 C++ compiler & CSV file (muchmoreexpanded.csv) with player data: Name, Club, Position, Price
-
-### Example CSV Format
-
-Player Name,Club,Position,Price
-Mohamed Salah,Liverpool,Midfielder,12.5
-Harry Kane,Tottenham,Attacker,11.0
-...

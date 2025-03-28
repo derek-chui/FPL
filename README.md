@@ -1,6 +1,6 @@
 # Fantasy Premier League Simulator
 
-Fantasy Premier League simulation game in C++ to simulate team drafting and weekly matchups.
+Game in C++ to simulate team drafting and weekly matchups.
 Players can draft squads, buy and sell players, and compete against a bot over multiple gameweeks.
 
 ## Compile the program
